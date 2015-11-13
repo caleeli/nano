@@ -22,7 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootswatch": "~3.3.5+4",
-    "admin-lte": "~2.3.2"
+    "bootswatch": "~3.*"
   }
 }

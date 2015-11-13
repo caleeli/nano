@@ -4,6 +4,7 @@
     "keywords": ["framework", "laravel", "lumen", "nano"],
     "license": "MIT",
     "type": "project",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9",
         "laravel/lumen-framework": "5.1.*",
